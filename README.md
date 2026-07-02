@@ -22,10 +22,3 @@ F = (C × 9/5) + 32
 Fahrenheit to Celsius:
 C = (F - 32) × 5/9
 
-## How to Run
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. Enter a temperature and click the desired conversion button.
-
-## Author
-Your Name
